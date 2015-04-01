@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Easy Facebook Page Box
- * Plugin URI: https://github.com/marcelocmenezes/Easy-Facebook-Page-Box
+ * Plugin URI: https://github.com/marcelocmenezes/EasyPageBox
  * Description: Plugin da nova Page Box do Facebook.
  * Author: Marcelo Menezes
  * Author URI: https://github.com/marcelocmenezes
